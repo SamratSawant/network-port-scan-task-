@@ -1,4 +1,4 @@
-# network-port-scan-task-
+# network-port-scan-task/
 Task-1 - Network Port Scanning Task - Cybersecurity Internship
 ## Objective
 Learn network reconnaissance by discovering open ports on local network devices to understand network exposure and security implications.
